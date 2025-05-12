@@ -2,6 +2,7 @@ print("¡Ingrese sus 8 notas de Introduccion al calculo! (Use un digito decimal)
 S = 0.0
 L = []
 contador = 0
+#Acotacion: El Algoritmo no funciona con str como imput
 
 while contador <8:
     N = float(input())
